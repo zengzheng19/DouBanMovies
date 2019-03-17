@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../DouBanComments/.idea/DouBanComments.iml" filepath="$PROJECT_DIR$/../DouBanComments/.idea/DouBanComments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DouBanLogin/.idea/DouBanLogin.iml" filepath="$PROJECT_DIR$/../DouBanLogin/.idea/DouBanLogin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DouBanTop250.iml" filepath="$PROJECT_DIR$/.idea/DouBanTop250.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DoubanFilm_Collector-master/.idea/DoubanFilm_Collector-master.iml" filepath="$PROJECT_DIR$/../DoubanFilm_Collector-master/.idea/DoubanFilm_Collector-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PSpider-master/.idea/PSpider-master.iml" filepath="$PROJECT_DIR$/../PSpider-master/.idea/PSpider-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ProxyDB/.idea/ProxyDB.iml" filepath="$PROJECT_DIR$/../ProxyDB/.idea/ProxyDB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../properties/.idea/properties.iml" filepath="$PROJECT_DIR$/../properties/.idea/properties.iml" />
+    </modules>
+  </component>
+</project>
